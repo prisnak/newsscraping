@@ -1,0 +1,23 @@
+{
+  "name": "node_starter_cheerio",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "author": "priscila nakazato",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cheerio": "^0.20.0",
+    "ejs": "^2.6.1",
+    "express": "^4.13.4",
+    "express-ejs-layouts": "^2.5.0",
+    "mongojs": "^2.3.0",
+    "morgan": "^1.9.1",
+    "request": "^2.88.0"
+  },
+  "description": "newsscraping"
+}
