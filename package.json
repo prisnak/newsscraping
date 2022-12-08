@@ -13,7 +13,7 @@
     "body-parser": "^1.18.3",
     "cheerio": "^0.20.0",
     "ejs": "^2.6.1",
-    "express": "^4.13.4",
+    "express": "^4.17.3",
     "express-ejs-layouts": "^2.5.0",
     "mongojs": "^2.3.0",
     "morgan": "^1.9.1",
